@@ -17,12 +17,12 @@
 
 В режиме конфигуратора, через меню *Администрирование - Распределенная ИБ - Управление*, добавляем новую периферийную ИБ (код EDI, только получатель). Выгрузку данных не производить.
 ![Администрирование - Распределенная ИБ - Управление](https://raw.githubusercontent.com/vnlunkov/1c77_exchange/master/Img/ReadMe_01.png)
-![Окно управления распределенными ИБ](https://github.com/vnlunkov/1c77_exchange/blob/master/Img/Read-Me-02.png?raw=true)
+![Окно управления распределенными ИБ](https://raw.githubusercontent.com/vnlunkov/1c77_exchange/master/Img/ReadMe-02.png)
 В окне управления распределенными ИБ задать параметры текущей ИБ, нажав **Центральная ИБ**.
-![Установка параметров текущей ИБ](https://github.com/vnlunkov/1c77_exchange/blob/master/Img/Read-Me-03.png?raw=true)
+![Установка параметров текущей ИБ](https://raw.githubusercontent.com/vnlunkov/1c77_exchange/master/Img/ReadMe-03.png)
 Ввести параметры центральной ИБ и нажать кнопку **ОК**.
-![Подтверждение создания распределенной ИБ](https://github.com/vnlunkov/1c77_exchange/blob/master/Img/Read-Me-04.png?raw=true)
+![Подтверждение создания распределенной ИБ](https://raw.githubusercontent.com/vnlunkov/1c77_exchange/master/Img/ReadMe-04.png)
 При первичной настройке распределенной ИБ система запросит подтверждение, необходимо нажать кнопку **ОК**.
-![Добавление нового узла ИБ](https://github.com/vnlunkov/1c77_exchange/blob/master/Img/Read-Me-06.png?raw=true)
+![Добавление нового узла ИБ](https://raw.githubusercontent.com/vnlunkov/1c77_exchange/master/Img/ReadMe-06.png)
 Добавляем переферийную ИБ, с которой будет осуществляться обмен, нажав **Новая перефирийная ИБ**. Ввести параметры переферийной ИБ и нажать кнопку **ОК**.
-![Результат настройки](https://github.com/vnlunkov/1c77_exchange/blob/master/Img/Read-Me-07.png?raw=true)
+![Результат настройки](https://raw.githubusercontent.com/vnlunkov/1c77_exchange/master/Img/ReadMe-07.png)
