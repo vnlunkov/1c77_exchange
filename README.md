@@ -16,7 +16,7 @@
 ## Установка ##
 
 В режиме конфигуратора, через меню *Администрирование - Распределенная ИБ - Управление*, добавляем новую периферийную ИБ (код EDI, только получатель). Выгрузку данных не производить.
-![Администрирование - Распределенная ИБ - Управление](https://github.com/vnlunkov/1c77_exchange/blob/master/Img/Read-Me-01.png?raw=true)
+![Администрирование - Распределенная ИБ - Управление](https://raw.githubusercontent.com/vnlunkov/1c77_exchange/master/Read-Me-01.png)
 ![Окно управления распределенными ИБ](https://github.com/vnlunkov/1c77_exchange/blob/master/Img/Read-Me-02.png?raw=true)
 В окне управления распределенными ИБ задать параметры текущей ИБ, нажав **Центральная ИБ**.
 ![Установка параметров текущей ИБ](https://github.com/vnlunkov/1c77_exchange/blob/master/Img/Read-Me-03.png?raw=true)
